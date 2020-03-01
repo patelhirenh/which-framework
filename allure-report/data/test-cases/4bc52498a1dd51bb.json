@@ -1,0 +1,82 @@
+{
+  "uid" : "4bc52498a1dd51bb",
+  "name" : "Hook",
+  "fullName" : "Television Reviews: Navigate to product page.Hook",
+  "historyId" : "d9d842ddcd9e1d155389375122f59618",
+  "time" : {
+    "start" : 1583097617080,
+    "stop" : 1583097617080,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Navigate to product page"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Navigate to product page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Navigate to product page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bf9c94f12b58b9dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097611796,
+        "stop" : 1583097611911,
+        "duration" : 115
+      }
+    }, {
+      "uid" : "9c638fe67252094a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097271169,
+        "stop" : 1583097271175,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "3fbb4312c56443aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097265659,
+        "stop" : 1583097265769,
+        "duration" : 110
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bc52498a1dd51bb.json",
+  "parameterValues" : [ "chrome" ]
+}

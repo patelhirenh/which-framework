@@ -1,0 +1,129 @@
+{
+  "uid" : "d91bf4f8312ace1d",
+  "name" : "When user selects any screen size filter",
+  "fullName" : "Television Reviews: Filter by Screen size.When user selects any screen size filter",
+  "historyId" : "8b9388364fdfecad568905e1d64e5c21",
+  "time" : {
+    "start" : 1583097253400,
+    "stop" : 1583097254439,
+    "duration" : 1039
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1583097253401,
+        "stop" : 1583097253412,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "69b51bb564f38df9",
+        "name" : "Request",
+        "source" : "69b51bb564f38df9.json",
+        "type" : "application/json",
+        "size" : 86
+      }, {
+        "uid" : "2f348dc9183ac7a9",
+        "name" : "Response",
+        "source" : "2f348dc9183ac7a9.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/e30dba26-d605-47db-9451-f8630467fd4a/click",
+      "time" : {
+        "start" : 1583097253415,
+        "stop" : 1583097253560,
+        "duration" : 145
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097253560,
+        "stop" : 1583097254439,
+        "duration" : 879
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "23f16e41abc9de53",
+        "name" : "Screenshot",
+        "source" : "23f16e41abc9de53.png",
+        "type" : "image/png",
+        "size" : 675546
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Filter by Screen size"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Filter by Screen size"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user selects any screen size filter"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Filter by Screen size"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d91bf4f8312ace1d.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,171 @@
+{
+  "uid" : "f15614fbd1366b4",
+  "name" : "When user select price low to high from sort by drop down",
+  "fullName" : "Television Reviews: Sort By Price low to high.When user select price low to high from sort by drop down",
+  "historyId" : "160320bb231c6d3bcd56862a7c640bd0",
+  "time" : {
+    "start" : 1583097262868,
+    "stop" : 1583097264523,
+    "duration" : 1655
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1583097262869,
+        "stop" : 1583097262926,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d488eff0aa05a403",
+        "name" : "Request",
+        "source" : "d488eff0aa05a403.json",
+        "type" : "application/json",
+        "size" : 108
+      }, {
+        "uid" : "934485fe535a393d",
+        "name" : "Response",
+        "source" : "934485fe535a393d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/81856acb-56c7-4b88-9c19-666c25d1ecea/click",
+      "time" : {
+        "start" : 1583097262928,
+        "stop" : 1583097263039,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1583097263039,
+        "stop" : 1583097263066,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f71aff7efaa4511",
+        "name" : "Request",
+        "source" : "f71aff7efaa4511.json",
+        "type" : "application/json",
+        "size" : 128
+      }, {
+        "uid" : "3abe2fd7368bfb87",
+        "name" : "Response",
+        "source" : "3abe2fd7368bfb87.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/e8b6dea0-a055-44f7-b585-1b20efb1369b/click",
+      "time" : {
+        "start" : 1583097263067,
+        "stop" : 1583097263399,
+        "duration" : 332
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097263399,
+        "stop" : 1583097264522,
+        "duration" : 1123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d73378fc7a1364cc",
+        "name" : "Screenshot",
+        "source" : "d73378fc7a1364cc.png",
+        "type" : "image/png",
+        "size" : 973548
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Sort By Price low to high"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Sort By Price low to high"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user select price low to high from sort by drop down"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Sort By Price low to high"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f15614fbd1366b4.json",
+  "parameterValues" : [ "chrome" ]
+}

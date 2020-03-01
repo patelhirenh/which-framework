@@ -1,0 +1,97 @@
+{
+  "uid" : "fd1e64a8ed17de5c",
+  "name" : "When user clicks on any product",
+  "fullName" : "Television Reviews: Navigate to product page.When user clicks on any product",
+  "historyId" : "2a43ae558686989059d4c56f3ccc28c",
+  "time" : {
+    "start" : 1583097614077,
+    "stop" : 1583097614861,
+    "duration" : 784
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097614077,
+        "stop" : 1583097614861,
+        "duration" : 784
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9964030df0b1777f",
+        "name" : "Screenshot",
+        "source" : "9964030df0b1777f.png",
+        "type" : "image/png",
+        "size" : 809699
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Navigate to product page"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Navigate to product page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user clicks on any product"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Navigate to product page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2b84e935427a116a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097267997,
+        "stop" : 1583097268747,
+        "duration" : 750
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd1e64a8ed17de5c.json",
+  "parameterValues" : [ "chrome" ]
+}

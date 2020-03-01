@@ -1,0 +1,252 @@
+{
+  "uid" : "7e4cb9bbabba33bc",
+  "name" : "Then user should see the item has been added to comparison flyout tray",
+  "fullName" : "Television Reviews: Add item to comparison flyout tray.Then user should see the item has been added to comparison flyout tray",
+  "historyId" : "43fae85b52ee40b74a39d4c89666ed63",
+  "time" : {
+    "start" : 1583097274185,
+    "stop" : 1583097275134,
+    "duration" : 949
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1583097274186,
+        "stop" : 1583097274198,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "167876fc02a084c2",
+        "name" : "Request",
+        "source" : "167876fc02a084c2.json",
+        "type" : "application/json",
+        "size" : 85
+      }, {
+        "uid" : "22a0628b0506fa57",
+        "name" : "Response",
+        "source" : "22a0628b0506fa57.json",
+        "type" : "application/json",
+        "size" : 4370
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1583097274212,
+        "stop" : 1583097274221,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e7c8e6952eadbd07",
+        "name" : "Request",
+        "source" : "e7c8e6952eadbd07.json",
+        "type" : "application/json",
+        "size" : 85
+      }, {
+        "uid" : "d9a50c6e3ea92e79",
+        "name" : "Response",
+        "source" : "d9a50c6e3ea92e79.json",
+        "type" : "application/json",
+        "size" : 4370
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/5b5f791c-84cd-4607-a43f-06d555c25d01/click",
+      "time" : {
+        "start" : 1583097274235,
+        "stop" : 1583097274474,
+        "duration" : 239
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1583097274474,
+        "stop" : 1583097274506,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "60befa2c090e3bb7",
+        "name" : "Request",
+        "source" : "60befa2c090e3bb7.json",
+        "type" : "application/json",
+        "size" : 66
+      }, {
+        "uid" : "2cd683586369e818",
+        "name" : "Response",
+        "source" : "2cd683586369e818.json",
+        "type" : "application/json",
+        "size" : 4370
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/0a605fa9-dc6f-45af-8abe-495323de7d2c/text",
+      "time" : {
+        "start" : 1583097274530,
+        "stop" : 1583097274558,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6d3673e9c82af7bb",
+        "name" : "Response",
+        "source" : "6d3673e9c82af7bb.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1583097274558,
+        "stop" : 1583097274574,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a1b3933ec7b28123",
+        "name" : "Request",
+        "source" : "a1b3933ec7b28123.json",
+        "type" : "application/json",
+        "size" : 95
+      }, {
+        "uid" : "198581de0bf64570",
+        "name" : "Response",
+        "source" : "198581de0bf64570.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/ac78c05f-c17c-4933-a4bb-b6fa78d7f42e/text",
+      "time" : {
+        "start" : 1583097274575,
+        "stop" : 1583097274593,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4e06a3510906298d",
+        "name" : "Response",
+        "source" : "4e06a3510906298d.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097274593,
+        "stop" : 1583097275134,
+        "duration" : 541
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c9f5bd29457fcc77",
+        "name" : "Screenshot",
+        "source" : "c9f5bd29457fcc77.png",
+        "type" : "image/png",
+        "size" : 578550
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 11,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user should see the item has been added to comparison flyout tray"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e4cb9bbabba33bc.json",
+  "parameterValues" : [ "chrome" ]
+}

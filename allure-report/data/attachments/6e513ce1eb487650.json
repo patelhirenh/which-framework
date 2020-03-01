@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[data-which-id=\"add-to-compare-button\"]"
+}

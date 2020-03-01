@@ -1,0 +1,97 @@
+{
+  "uid" : "aebf011c7d2962b9",
+  "name" : "Then user should see the list of Brands",
+  "fullName" : "Television Reviews: Filter by Brand name.Then user should see the list of Brands",
+  "historyId" : "ed41b19d035acac855e3769f3d3e2023",
+  "time" : {
+    "start" : 1583097623854,
+    "stop" : 1583097624403,
+    "duration" : 549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097623855,
+        "stop" : 1583097624402,
+        "duration" : 547
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4e5a8244a7958ac",
+        "name" : "Screenshot",
+        "source" : "4e5a8244a7958ac.png",
+        "type" : "image/png",
+        "size" : 631696
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Filter by Brand name"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Filter by Brand name"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then user should see the list of Brands"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Filter by Brand name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "12d9bce2da52ff69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097278111,
+        "stop" : 1583097278639,
+        "duration" : 528
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aebf011c7d2962b9.json",
+  "parameterValues" : [ "chrome" ]
+}

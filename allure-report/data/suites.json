@@ -1,0 +1,311 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Television Reviews: Filter by Screen size",
+    "children" : [ {
+      "name" : "Given user is on television landing page",
+      "uid" : "71e5fe724ce2a711",
+      "parentUid" : "6c325b53bf023d173a9472602c861d28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097595411,
+        "stop" : 1583097599415,
+        "duration" : 4004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user selects any screen size filter",
+      "uid" : "978a330ff244b907",
+      "parentUid" : "6c325b53bf023d173a9472602c861d28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097599415,
+        "stop" : 1583097600484,
+        "duration" : 1069
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the results as per the selected filter",
+      "uid" : "40a9606f3476c3d8",
+      "parentUid" : "6c325b53bf023d173a9472602c861d28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097600485,
+        "stop" : 1583097606585,
+        "duration" : 6100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "ff8ad9c498fee5da",
+      "parentUid" : "6c325b53bf023d173a9472602c861d28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097606585,
+        "stop" : 1583097606586,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "6c325b53bf023d173a9472602c861d28"
+  }, {
+    "name" : "Television Reviews: Sort By Price low to high",
+    "children" : [ {
+      "name" : "Given user is on television landing page",
+      "uid" : "f0faad2c18be41a8",
+      "parentUid" : "c2e700d2bcfaa858fb631cffd7ebe0a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097606713,
+        "stop" : 1583097609169,
+        "duration" : 2456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select price low to high from sort by drop down",
+      "uid" : "f6ed2ef3d991a5d0",
+      "parentUid" : "c2e700d2bcfaa858fb631cffd7ebe0a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097609169,
+        "stop" : 1583097610666,
+        "duration" : 1497
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should find products price are displayed in ascending order",
+      "uid" : "3727b34f7fee09a0",
+      "parentUid" : "c2e700d2bcfaa858fb631cffd7ebe0a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097610666,
+        "stop" : 1583097611778,
+        "duration" : 1112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f2b29d3b4617e196",
+      "parentUid" : "c2e700d2bcfaa858fb631cffd7ebe0a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097611778,
+        "stop" : 1583097611779,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "c2e700d2bcfaa858fb631cffd7ebe0a9"
+  }, {
+    "name" : "Television Reviews: Navigate to product page",
+    "children" : [ {
+      "name" : "Given user is on television landing page",
+      "uid" : "c0f24c38633789cd",
+      "parentUid" : "5bf0c1ac12c196f75bb51a6ec163f54c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097611911,
+        "stop" : 1583097614077,
+        "duration" : 2166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user clicks on any product",
+      "uid" : "fd1e64a8ed17de5c",
+      "parentUid" : "5bf0c1ac12c196f75bb51a6ec163f54c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097614077,
+        "stop" : 1583097614861,
+        "duration" : 784
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be redirected to the selected product page",
+      "uid" : "c5d955a885d7ea6c",
+      "parentUid" : "5bf0c1ac12c196f75bb51a6ec163f54c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097614861,
+        "stop" : 1583097617080,
+        "duration" : 2219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4bc52498a1dd51bb",
+      "parentUid" : "5bf0c1ac12c196f75bb51a6ec163f54c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097617080,
+        "stop" : 1583097617080,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "5bf0c1ac12c196f75bb51a6ec163f54c"
+  }, {
+    "name" : "Television Reviews: Add item to comparison flyout tray",
+    "children" : [ {
+      "name" : "Given user is on television landing page",
+      "uid" : "70da8cb3aa05407f",
+      "parentUid" : "5bf206df9c1fe6880b5a7cbcc3433a40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097617213,
+        "stop" : 1583097619363,
+        "duration" : 2150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select any item to compare",
+      "uid" : "4ce0a3ab676d5cd0",
+      "parentUid" : "5bf206df9c1fe6880b5a7cbcc3433a40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097619363,
+        "stop" : 1583097619935,
+        "duration" : 572
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the item has been added to comparison flyout tray",
+      "uid" : "deec101b9965ec9a",
+      "parentUid" : "5bf206df9c1fe6880b5a7cbcc3433a40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097619935,
+        "stop" : 1583097620835,
+        "duration" : 900
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "34bb1f230b8f0109",
+      "parentUid" : "5bf206df9c1fe6880b5a7cbcc3433a40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097620835,
+        "stop" : 1583097620836,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "5bf206df9c1fe6880b5a7cbcc3433a40"
+  }, {
+    "name" : "Television Reviews: Filter by Brand name",
+    "children" : [ {
+      "name" : "Given user is on television landing page",
+      "uid" : "b8cd63a9c97f7a64",
+      "parentUid" : "45a144318a5a75cce48fde80d7efcafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097620949,
+        "stop" : 1583097623065,
+        "duration" : 2116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user clicks on more filter button",
+      "uid" : "c20d327716222981",
+      "parentUid" : "45a144318a5a75cce48fde80d7efcafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097623066,
+        "stop" : 1583097623854,
+        "duration" : 788
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the list of Brands",
+      "uid" : "aebf011c7d2962b9",
+      "parentUid" : "45a144318a5a75cce48fde80d7efcafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097623854,
+        "stop" : 1583097624403,
+        "duration" : 549
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select any brand",
+      "uid" : "633f75c9de8ca811",
+      "parentUid" : "45a144318a5a75cce48fde80d7efcafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097624403,
+        "stop" : 1583097624933,
+        "duration" : 530
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the result by the selected brand",
+      "uid" : "e76016fcf070c0f7",
+      "parentUid" : "45a144318a5a75cce48fde80d7efcafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097624933,
+        "stop" : 1583097625469,
+        "duration" : 536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "8775544f998b7158",
+      "parentUid" : "45a144318a5a75cce48fde80d7efcafe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097625469,
+        "stop" : 1583097625469,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "45a144318a5a75cce48fde80d7efcafe"
+  } ]
+}

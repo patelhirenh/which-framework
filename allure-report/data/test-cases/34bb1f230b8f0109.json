@@ -1,0 +1,82 @@
+{
+  "uid" : "34bb1f230b8f0109",
+  "name" : "Hook",
+  "fullName" : "Television Reviews: Add item to comparison flyout tray.Hook",
+  "historyId" : "d4b2128542a698628d018f275d077ce",
+  "time" : {
+    "start" : 1583097620835,
+    "stop" : 1583097620836,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fae9acdbd75c4f5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097617089,
+        "stop" : 1583097617213,
+        "duration" : 124
+      }
+    }, {
+      "uid" : "738f5abe816ce859",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097275134,
+        "stop" : 1583097275135,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f5da70a3837f6349",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097271182,
+        "stop" : 1583097271306,
+        "duration" : 124
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34bb1f230b8f0109.json",
+  "parameterValues" : [ "chrome" ]
+}

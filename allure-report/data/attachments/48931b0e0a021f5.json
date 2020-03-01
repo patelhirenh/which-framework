@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div:first-child>div:first-child>div>div>label>div>div>div>select>option:nth-child(3)"
+}

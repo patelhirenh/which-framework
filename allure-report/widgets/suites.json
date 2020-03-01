@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "45a144318a5a75cce48fde80d7efcafe",
+    "name" : "Television Reviews: Filter by Brand name",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "6c325b53bf023d173a9472602c861d28",
+    "name" : "Television Reviews: Filter by Screen size",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "c2e700d2bcfaa858fb631cffd7ebe0a9",
+    "name" : "Television Reviews: Sort By Price low to high",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "5bf0c1ac12c196f75bb51a6ec163f54c",
+    "name" : "Television Reviews: Navigate to product page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "5bf206df9c1fe6880b5a7cbcc3433a40",
+    "name" : "Television Reviews: Add item to comparison flyout tray",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

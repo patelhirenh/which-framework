@@ -1,0 +1,139 @@
+{
+  "uid" : "f0faad2c18be41a8",
+  "name" : "Given user is on television landing page",
+  "fullName" : "Television Reviews: Sort By Price low to high.Given user is on television landing page",
+  "historyId" : "5d6836bcda2234459e830334f6f5c145",
+  "time" : {
+    "start" : 1583097606713,
+    "stop" : 1583097609169,
+    "duration" : 2456
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1583097606713,
+        "stop" : 1583097607561,
+        "duration" : 848
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "be6cdae3e571de0a",
+        "name" : "Request",
+        "source" : "be6cdae3e571de0a.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1583097607561,
+        "stop" : 1583097608416,
+        "duration" : 855
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "586d329dfb204130",
+        "name" : "Response",
+        "source" : "586d329dfb204130.json",
+        "type" : "application/json",
+        "size" : 29
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097608416,
+        "stop" : 1583097609169,
+        "duration" : 753
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d08db62aaf0c4d66",
+        "name" : "Screenshot",
+        "source" : "d08db62aaf0c4d66.png",
+        "type" : "image/png",
+        "size" : 809699
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Sort By Price low to high"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Sort By Price low to high"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given user is on television landing page"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Sort By Price low to high"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7f890937a17e687f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097260626,
+        "stop" : 1583097262868,
+        "duration" : 2242
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0faad2c18be41a8.json",
+  "parameterValues" : [ "chrome" ]
+}

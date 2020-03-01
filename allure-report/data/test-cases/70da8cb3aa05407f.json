@@ -1,0 +1,139 @@
+{
+  "uid" : "70da8cb3aa05407f",
+  "name" : "Given user is on television landing page",
+  "fullName" : "Television Reviews: Add item to comparison flyout tray.Given user is on television landing page",
+  "historyId" : "6de40d4eca66bdf266944f0f274a96b",
+  "time" : {
+    "start" : 1583097617213,
+    "stop" : 1583097619363,
+    "duration" : 2150
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1583097617213,
+        "stop" : 1583097617794,
+        "duration" : 581
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fb326ef178af117c",
+        "name" : "Request",
+        "source" : "fb326ef178af117c.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1583097617794,
+        "stop" : 1583097618395,
+        "duration" : 601
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "568769a8f260f96f",
+        "name" : "Response",
+        "source" : "568769a8f260f96f.json",
+        "type" : "application/json",
+        "size" : 29
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097618396,
+        "stop" : 1583097619363,
+        "duration" : 967
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eee06cd337f9ea87",
+        "name" : "Screenshot",
+        "source" : "eee06cd337f9ea87.png",
+        "type" : "image/png",
+        "size" : 804953
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given user is on television landing page"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Add item to comparison flyout tray"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d0f1add8b9b9f626",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097271306,
+        "stop" : 1583097273625,
+        "duration" : 2319
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70da8cb3aa05407f.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,776 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Hook",
+      "uid" : "fae7d5fed691d7ae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097260498,
+        "stop" : 1583097260499,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "fae9acdbd75c4f5c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097617089,
+        "stop" : 1583097617213,
+        "duration" : 124
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "ff8ad9c498fee5da",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097606585,
+        "stop" : 1583097606586,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f2cfcb8f519227fc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097595262,
+        "stop" : 1583097595410,
+        "duration" : 148
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3137f3cf25d23723",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097260516,
+        "stop" : 1583097260625,
+        "duration" : 109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select price low to high from sort by drop down",
+      "uid" : "f6ed2ef3d991a5d0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097609169,
+        "stop" : 1583097610666,
+        "duration" : 1497
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "29d06e5fe40c6b69",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097606603,
+        "stop" : 1583097606712,
+        "duration" : 109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "d0f1add8b9b9f626",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097271306,
+        "stop" : 1583097273625,
+        "duration" : 2319
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be redirected to the selected product page",
+      "uid" : "c5d955a885d7ea6c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097614861,
+        "stop" : 1583097617080,
+        "duration" : 2219
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the results as per the selected filter",
+      "uid" : "8184337c0da35020",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097527031,
+        "stop" : 1583097531802,
+        "duration" : 4771
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "7f890937a17e687f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097260626,
+        "stop" : 1583097262868,
+        "duration" : 2242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "2bc4a365ef5e9901",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097275248,
+        "stop" : 1583097277333,
+        "duration" : 2085
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "bf9c94f12b58b9dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097611796,
+        "stop" : 1583097611911,
+        "duration" : 115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "738f5abe816ce859",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097275134,
+        "stop" : 1583097275135,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f2b29d3b4617e196",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097611778,
+        "stop" : 1583097611779,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "73212c319d77ace",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097265769,
+        "stop" : 1583097267997,
+        "duration" : 2228
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user clicks on any product",
+      "uid" : "2b84e935427a116a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097267997,
+        "stop" : 1583097268747,
+        "duration" : 750
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "2021aa6086615b08",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097275138,
+        "stop" : 1583097275248,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the item has been added to comparison flyout tray",
+      "uid" : "deec101b9965ec9a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097619935,
+        "stop" : 1583097620835,
+        "duration" : 900
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select price low to high from sort by drop down",
+      "uid" : "f15614fbd1366b4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097262868,
+        "stop" : 1583097264523,
+        "duration" : 1655
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user selects any screen size filter",
+      "uid" : "978a330ff244b907",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097599415,
+        "stop" : 1583097600484,
+        "duration" : 1069
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "c23381f21efcba84",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097620839,
+        "stop" : 1583097620949,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the result by the selected brand",
+      "uid" : "e76016fcf070c0f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097624933,
+        "stop" : 1583097625469,
+        "duration" : 536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "dadae799ea2c9954",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097265645,
+        "stop" : 1583097265645,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select any brand",
+      "uid" : "4075937943d8e060",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097278639,
+        "stop" : 1583097279159,
+        "duration" : 520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user selects any screen size filter",
+      "uid" : "b25d4c059996964d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097525865,
+        "stop" : 1583097527031,
+        "duration" : 1166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a6f8febe9d9b3c49",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097248751,
+        "stop" : 1583097248885,
+        "duration" : 134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the results as per the selected filter",
+      "uid" : "178e73574308e9a5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097254439,
+        "stop" : 1583097260498,
+        "duration" : 6059
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the list of Brands",
+      "uid" : "12d9bce2da52ff69",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097278111,
+        "stop" : 1583097278639,
+        "duration" : 528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "c0a8dee73f43fe17",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097531802,
+        "stop" : 1583097531802,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "ecc27a846726c822",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097522875,
+        "stop" : 1583097525865,
+        "duration" : 2990
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "92bfa6f58f2b69c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097248885,
+        "stop" : 1583097253400,
+        "duration" : 4515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "8775544f998b7158",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097625469,
+        "stop" : 1583097625469,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select any item to compare",
+      "uid" : "b3345cb15c2765f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097273626,
+        "stop" : 1583097274185,
+        "duration" : 559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select any brand",
+      "uid" : "633f75c9de8ca811",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097624403,
+        "stop" : 1583097624933,
+        "duration" : 530
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should find products price are displayed in ascending order",
+      "uid" : "3727b34f7fee09a0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097610666,
+        "stop" : 1583097611778,
+        "duration" : 1112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the list of Brands",
+      "uid" : "aebf011c7d2962b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097623854,
+        "stop" : 1583097624403,
+        "duration" : 549
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user clicks on more filter button",
+      "uid" : "299e00bf7ef72921",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097277336,
+        "stop" : 1583097278111,
+        "duration" : 775
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "76383ef5d670035d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097279701,
+        "stop" : 1583097279701,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3fbb4312c56443aa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097265659,
+        "stop" : 1583097265769,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "9c638fe67252094a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097271169,
+        "stop" : 1583097271175,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "f0faad2c18be41a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097606713,
+        "stop" : 1583097609169,
+        "duration" : 2456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f5da70a3837f6349",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097271182,
+        "stop" : 1583097271306,
+        "duration" : 124
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the result by the selected brand",
+      "uid" : "244ee1d4bc1fbe1f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097279159,
+        "stop" : 1583097279701,
+        "duration" : 542
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4bc52498a1dd51bb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097617080,
+        "stop" : 1583097617080,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "70da8cb3aa05407f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097617213,
+        "stop" : 1583097619363,
+        "duration" : 2150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user clicks on more filter button",
+      "uid" : "c20d327716222981",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097623066,
+        "stop" : 1583097623854,
+        "duration" : 788
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "777e3fc97b37f89",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097522740,
+        "stop" : 1583097522875,
+        "duration" : 135
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the results as per the selected filter",
+      "uid" : "40a9606f3476c3d8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097600485,
+        "stop" : 1583097606585,
+        "duration" : 6100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should be redirected to the selected product page",
+      "uid" : "21eb627aeda74f23",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1583097268747,
+        "stop" : 1583097271169,
+        "duration" : 2422
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "71e5fe724ce2a711",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097595411,
+        "stop" : 1583097599415,
+        "duration" : 4004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should find products price are displayed in ascending order",
+      "uid" : "9a21dea0362a2752",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097264523,
+        "stop" : 1583097265645,
+        "duration" : 1122
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user select any item to compare",
+      "uid" : "4ce0a3ab676d5cd0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097619363,
+        "stop" : 1583097619935,
+        "duration" : 572
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user clicks on any product",
+      "uid" : "fd1e64a8ed17de5c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097614077,
+        "stop" : 1583097614861,
+        "duration" : 784
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then user should see the item has been added to comparison flyout tray",
+      "uid" : "7e4cb9bbabba33bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097274185,
+        "stop" : 1583097275134,
+        "duration" : 949
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "34bb1f230b8f0109",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097620835,
+        "stop" : 1583097620836,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "c0f24c38633789cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097611911,
+        "stop" : 1583097614077,
+        "duration" : 2166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given user is on television landing page",
+      "uid" : "b8cd63a9c97f7a64",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097620949,
+        "stop" : 1583097623065,
+        "duration" : 2116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When user selects any screen size filter",
+      "uid" : "d91bf4f8312ace1d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1583097253400,
+        "stop" : 1583097254439,
+        "duration" : 1039
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

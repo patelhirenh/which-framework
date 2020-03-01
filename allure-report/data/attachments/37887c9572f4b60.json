@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[data-which-button*=\"size\"]+div>div>div>ul>li>div>label>div>span>span:first-child"
+}

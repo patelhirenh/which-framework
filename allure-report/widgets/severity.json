@@ -1,0 +1,221 @@
+[ {
+  "uid" : "8775544f998b7158",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1583097625469,
+    "stop" : 1583097625469,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3727b34f7fee09a0",
+  "name" : "Then user should find products price are displayed in ascending order",
+  "time" : {
+    "start" : 1583097610666,
+    "stop" : 1583097611778,
+    "duration" : 1112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40a9606f3476c3d8",
+  "name" : "Then user should see the results as per the selected filter",
+  "time" : {
+    "start" : 1583097600485,
+    "stop" : 1583097606585,
+    "duration" : 6100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0f24c38633789cd",
+  "name" : "Given user is on television landing page",
+  "time" : {
+    "start" : 1583097611911,
+    "stop" : 1583097614077,
+    "duration" : 2166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5d955a885d7ea6c",
+  "name" : "Then user should be redirected to the selected product page",
+  "time" : {
+    "start" : 1583097614861,
+    "stop" : 1583097617080,
+    "duration" : 2219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0faad2c18be41a8",
+  "name" : "Given user is on television landing page",
+  "time" : {
+    "start" : 1583097606713,
+    "stop" : 1583097609169,
+    "duration" : 2456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e76016fcf070c0f7",
+  "name" : "Then user should see the result by the selected brand",
+  "time" : {
+    "start" : 1583097624933,
+    "stop" : 1583097625469,
+    "duration" : 536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aebf011c7d2962b9",
+  "name" : "Then user should see the list of Brands",
+  "time" : {
+    "start" : 1583097623854,
+    "stop" : 1583097624403,
+    "duration" : 549
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8cd63a9c97f7a64",
+  "name" : "Given user is on television landing page",
+  "time" : {
+    "start" : 1583097620949,
+    "stop" : 1583097623065,
+    "duration" : 2116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bc52498a1dd51bb",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1583097617080,
+    "stop" : 1583097617080,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd1e64a8ed17de5c",
+  "name" : "When user clicks on any product",
+  "time" : {
+    "start" : 1583097614077,
+    "stop" : 1583097614861,
+    "duration" : 784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6ed2ef3d991a5d0",
+  "name" : "When user select price low to high from sort by drop down",
+  "time" : {
+    "start" : 1583097609169,
+    "stop" : 1583097610666,
+    "duration" : 1497
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70da8cb3aa05407f",
+  "name" : "Given user is on television landing page",
+  "time" : {
+    "start" : 1583097617213,
+    "stop" : 1583097619363,
+    "duration" : 2150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff8ad9c498fee5da",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1583097606585,
+    "stop" : 1583097606586,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "633f75c9de8ca811",
+  "name" : "When user select any brand",
+  "time" : {
+    "start" : 1583097624403,
+    "stop" : 1583097624933,
+    "duration" : 530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c20d327716222981",
+  "name" : "When user clicks on more filter button",
+  "time" : {
+    "start" : 1583097623066,
+    "stop" : 1583097623854,
+    "duration" : 788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ce0a3ab676d5cd0",
+  "name" : "When user select any item to compare",
+  "time" : {
+    "start" : 1583097619363,
+    "stop" : 1583097619935,
+    "duration" : 572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71e5fe724ce2a711",
+  "name" : "Given user is on television landing page",
+  "time" : {
+    "start" : 1583097595411,
+    "stop" : 1583097599415,
+    "duration" : 4004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34bb1f230b8f0109",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1583097620835,
+    "stop" : 1583097620836,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2b29d3b4617e196",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1583097611778,
+    "stop" : 1583097611779,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "deec101b9965ec9a",
+  "name" : "Then user should see the item has been added to comparison flyout tray",
+  "time" : {
+    "start" : 1583097619935,
+    "stop" : 1583097620835,
+    "duration" : 900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "978a330ff244b907",
+  "name" : "When user selects any screen size filter",
+  "time" : {
+    "start" : 1583097599415,
+    "stop" : 1583097600484,
+    "duration" : 1069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

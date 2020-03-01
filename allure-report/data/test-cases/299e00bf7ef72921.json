@@ -1,0 +1,87 @@
+{
+  "uid" : "299e00bf7ef72921",
+  "name" : "When user clicks on more filter button",
+  "fullName" : "Television Reviews: Filter by Brand name.When user clicks on more filter button",
+  "historyId" : "64410c8c4e79692ffb38ec40a4b14621",
+  "time" : {
+    "start" : 1583097277336,
+    "stop" : 1583097278111,
+    "duration" : 775
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1583097277337,
+        "stop" : 1583097278110,
+        "duration" : 773
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c173a10a5659726b",
+        "name" : "Screenshot",
+        "source" : "c173a10a5659726b.png",
+        "type" : "image/png",
+        "size" : 536826
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Television Reviews: Filter by Brand name"
+  }, {
+    "name" : "testClass",
+    "value" : "Television Reviews: Filter by Brand name"
+  }, {
+    "name" : "testMethod",
+    "value" : "When user clicks on more filter button"
+  }, {
+    "name" : "package",
+    "value" : "Television Reviews: Filter by Brand name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "299e00bf7ef72921.json",
+  "parameterValues" : [ "chrome" ]
+}
