@@ -1,5 +1,5 @@
 # WebdriverIO CucumberJS JavaScript
-This project is designed using Webdriver.io on Cucumber Framework
+This project is designed using Webdriver.io and Cucumber.js Framework
 
 ## How to install
 
@@ -11,27 +11,20 @@ This project is designed using Webdriver.io on Cucumber Framework
 
     npm run tests
 
-## Features
-
--   Cucumber Framework
--   Allure Reporter
--   Chai For assertions
-
-##### Reporting
+## Reporting
 
 The Allure Reporter creates test reports which is an HTML generated website with all necessary information to debug your test results and take a look on error screenshots. 
 
 After the tests has been executed view the allure reporting by simply running the command:
 
--npm run open-allure
+#### -npm run open-allure
+
+<img width="1438" alt="Screenshot 2020-03-01 at 21 38 28" src="https://user-images.githubusercontent.com/35804943/75635239-5abe3800-5c0c-11ea-8a55-004395ebe89e.png">
+<img width="1440" alt="Screenshot 2020-03-01 at 21 38 47" src="https://user-images.githubusercontent.com/35804943/75635243-5d209200-5c0c-11ea-90f1-9dd044f9a2a1.png">
+<img width="1440" alt="Screenshot 2020-03-01 at 21 39 16" src="https://user-images.githubusercontent.com/35804943/75635245-6578cd00-5c0c-11ea-9a74-002411a82c67.png">
 
 
-### Dependencies
-
-Java must be installed to run allure reports
-
-
-##### Using Cucumber JavaScript framework
+## Using Cucumber JavaScript framework
 
 Tests are written in the Cucumber framework using the Gherkin Syntax. More about Gherkin & Cucumber can be found at https://cucumber.io/docs/reference
 
@@ -66,7 +59,7 @@ Feature: Television Reviews
 
 ```
 
-### The Page Object Design Pattern
+## The Page Object Design Pattern
 
 Within your web app's UI there are areas that your tests interact with. A Page Object simply models these as objects within the test code. This reduces the amount of duplicated code and means that if the UI changes, the fix need only be applied in one place. In other wards one of the challenges of writing test automation is keeping your [selectors] (classes, id's, or xpath' etc.) up to date with the latest version of your code.  The next challenge is to keep the code you write nice and DRY (Don't Repeat Yourself).  The page object pattern helps us accomplish this in one solution.  
 
