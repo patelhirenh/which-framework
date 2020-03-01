@@ -34,7 +34,6 @@ class TelevisionReviews {
   //This is the locator for show more under brands section
   get showMoreBtn() {
     return $(
-     // 'div>div:nth-child(3)>section>ul>li>button>span'
       '[data-which-button="more_filters-filter"]+div>div>div>div:nth-child(3)>section>ul>li:nth-child(12)>button'
     );
   }
@@ -161,7 +160,6 @@ class TelevisionReviews {
   selectProductToCompare(){
     const index = Math.floor(Math.random() * this.addToCompare.length);
     this.addToCompare[index].click()
-    // const item=$$('div[itemprop="name"]')
     const proName=this.productNameModel[index].getText()
     return proName;
   }
